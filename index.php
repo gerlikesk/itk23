@@ -5,6 +5,6 @@
   <body>
     <h1>Meie pojekti pealeht</h1>
     <p>See leht arvestab ka muudatustega</p>
-    <img src="https://shorturl.at/eBFN2">
+    <img src="https://static.wikia.nocookie.net/assassinationclassroom/images/c/c5/Koro_sensei_transparent.png/revision/latest?cb=20161202043210">
   </body>
 </html>
